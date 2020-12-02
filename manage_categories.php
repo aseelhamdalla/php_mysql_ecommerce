@@ -362,7 +362,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
        <form method="post" acttion="">
               <input hidden name="uname" value=<?php echo $val['category_name'] ?>/> 
               
-              <button id="btn"> edie</button> 
+              <button id="btn"> ediet</button> 
           </form>
       </td>
 
